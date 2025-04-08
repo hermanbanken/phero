@@ -5,6 +5,8 @@
 
 ---
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/phero-hq/phero/badge)](https://scorecard.dev/viewer/?uri=github.com/phero-hq/phero)
+
 Phero is the no-hassle and type-safe glue between your backend and frontend. TypeScript is at the core of it all. Development with Phero goes in these steps:
 
 1. **Build your backend.** Define your domain models and functions in regular, plain TypeScript.
